@@ -1,0 +1,7 @@
+## ignore built files
+node_modules
+public
+.cache
+
+## ignore macos files
+.DS_Store
