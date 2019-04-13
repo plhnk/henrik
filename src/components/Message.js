@@ -20,6 +20,8 @@ const Message = (props) => (
         color: props.color,
         fontSize: "1em",
         textAlign: "center",
+        fontWeight: "normal",
+        fontStyle: "italic",
         }}
       >{props.message}</p>
     </div>

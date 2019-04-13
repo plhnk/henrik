@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: "Arrived 12.04.19",
+    title: "Arrived 04.12.19",
     message: "I'm live, but my site is currently in development.",
     pattern: "Henrik",
     color: "#fff",
-    titleFont: "Work Sans",
-    messageFont: "Roboto",
+    titleFont: "Work+Sans:900",
+    messageFont: "Vollkorn",
     social: ["https://github.com/plhnk/henrik","mailto:henrik@hanaoka.co"],
   },
   plugins: [

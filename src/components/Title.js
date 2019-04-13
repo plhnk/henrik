@@ -15,12 +15,13 @@ const Title = (props) => (
     >
       <h1
         style={{
-        fontFamily: props.titleFont,
+        fontFamily: "Work Sans, sansSerif",
         color: props.color,
         fontSize: "3em",
-        fontWeight: "normal",
+        fontWeight: "900",
         margin: "0",
         textAlign: "center",
+        fontVariantNumeric: "tabular-nums",
         }}
       >{ props.title }</h1>
     </div>

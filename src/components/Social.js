@@ -11,6 +11,7 @@ const Social = (props) => (
       style={{
       listStyleType: "none",
       display: "flex",
+      padding: "0",
       ...defaultStyle,
       ...transitionStyles[state],
       }}
