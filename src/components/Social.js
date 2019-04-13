@@ -5,7 +5,7 @@ import Transition from "react-transition-group/Transition"
 import { defaultStyle, transitionStyles } from "../transitions"
 
 const Social = (props) => (
-  <Transition in appear={true} timeout={2000}>
+  <Transition in appear={true} timeout={600}>
     {(state) => (
     <ul
       style={{

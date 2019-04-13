@@ -4,7 +4,7 @@ import Transition from "react-transition-group/Transition"
 import { defaultStyle, transitionStyles } from "../transitions"
 
 const Message = (props) => (
-  <Transition in appear={true} timeout={1200}>
+  <Transition in appear={true} timeout={500}>
     {(state) => (
     <div
       style={{
