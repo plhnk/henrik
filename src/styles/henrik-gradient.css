@@ -1,0 +1,23 @@
+bg {
+	background-image:
+	radial-gradient(
+	      circle at top left,
+	      rgba(149, 160, 222, 0.7), 
+	      transparent 50vw
+	    ),
+	radial-gradient(
+	      circle at top right,
+	      rgba(151, 192, 231, 0.9), 
+	      transparent 20vw
+	),
+	radial-gradient(
+	      at bottom left,
+	      rgba(23, 67, 118, 0.8), 
+	      transparent 30vw
+	    ),
+	radial-gradient(
+	      at bottom right,
+	      rgba(59, 101, 142, 0.6), 
+	      transparent 70vw
+	    );
+}
